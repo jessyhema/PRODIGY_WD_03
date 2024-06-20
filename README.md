@@ -1,5 +1,5 @@
 # PRODIGY_WD_03(TIC-TAC-TOE WEB APPLICATION)
-## INTRODUCTION:
+## INTRODUCTION
 * Welcome to the Tic Tac Toe web application! This engaging and interactive game allows you to enjoy the classic game of Tic Tac Toe right in your web browser. Designed with simplicity and user experience in mind, this application brings the timeless fun of Tic Tac Toe to the digital world with modern web technologies.
 ## Languages Used
 * HTML5: Provides the structure of the web application, defining the layout and elements of the game board and interface.
@@ -29,7 +29,7 @@
 ## Conclusion
 * This Tic Tac Toe web application provides a fun and interactive way to play the classic game. With its intuitive interface, responsive design, and engaging features, it offers an enjoyable experience for players of all ages. Whether you’re looking to pass the time, challenge a friend, or improve your strategic thinking, this application is the perfect choice.
 * Enjoy playing Tic Tac Toe on the web, and experience the blend of classic gameplay with modern web technology!
-## Image of it:
+## Image
 ![TicTacToe](https://github.com/jessyhema/PRODIGY_WD_03/assets/143420058/d6ae9a18-b5b4-4080-9e81-532279a59999)
 
 
