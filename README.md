@@ -30,7 +30,8 @@
 * This Tic Tac Toe web application provides a fun and interactive way to play the classic game. With its intuitive interface, responsive design, and engaging features, it offers an enjoyable experience for players of all ages. Whether you’re looking to pass the time, challenge a friend, or improve your strategic thinking, this application is the perfect choice.
 * Enjoy playing Tic Tac Toe on the web, and experience the blend of classic gameplay with modern web technology!
 ## Image of it:
-"C:\Users\betha\OneDrive\Pictures\TicTacToe.png"
+![TicTacToe](https://github.com/jessyhema/PRODIGY_WD_03/assets/143420058/d6ae9a18-b5b4-4080-9e81-532279a59999)
+
 
 
 
